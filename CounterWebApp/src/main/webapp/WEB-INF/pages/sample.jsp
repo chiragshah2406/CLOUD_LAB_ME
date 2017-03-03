@@ -7,10 +7,10 @@
     <table border="0" cellpadding="10">
       <tr>
         <td>
-          <img src="polaris.jpeg">
+          <img src="polariss.jpeg">
         </td>
         <td>
-          <h1>"Warm Welcome to DevOps World - VirtusaPolaris Team "</h1>
+          <h1>"Warm Welcome to DevOps Worlds"</h1>
         </td>
       </tr>
     </table>
