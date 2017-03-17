@@ -10,7 +10,7 @@
           <img src="polariss.jpeg">
         </td>
         <td>
-          <h1>"Warm Welcome to DevOps Worlds - New Infra Demo"</h1>
+          <h1>"Warm Welcome to DevOps Worlds - Infra Demo"</h1>
         </td>
       </tr>
     </table>
