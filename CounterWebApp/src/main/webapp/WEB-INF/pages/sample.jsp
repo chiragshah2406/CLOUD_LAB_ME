@@ -7,7 +7,7 @@
     <table border="0" cellpadding="10">
       <tr>
         <td>
-          <img src="polariss.jpeg">
+          <img src="polaris.jpg">
         </td>
         <td>
           <h1>"Welcome to the world of DevOps"</h1>
